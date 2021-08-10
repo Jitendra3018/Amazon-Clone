@@ -1,0 +1,25 @@
+Tecnologies used for this build are as follows:-
+
+1. Firebase
+2. React.js
+3. Next.js
+4. Redux
+5. Tailwind css
+6. Webhooks
+7. NextAuth.js (Authentication for Next.js)
+8. Fake store API
+9. Stripe
+
+Day 1:-
+1. Next.js
+2. Redux
+3. Tailwind css
+4. React.js
+
+Day 2:-
+1. Firebase
+2. NextAuth.js
+3. Redux
+
+Day 3:-
+1. Stripe
